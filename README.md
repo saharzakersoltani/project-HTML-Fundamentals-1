@@ -1,4 +1,4 @@
-# HTML Fundamentals Project - 2
+# HTML Fundamentals Project - 1
 
 This project is part of an educational exercise focused on HTML fundamentals. It covers basic and more advanced HTML concepts, implemented as part of a learning process.
 
